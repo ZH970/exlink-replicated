@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "tft_espi_esp32_s3.c": "cpp",
+        "*.tcc": "cpp",
+        "ina.h": "c",
+        "wire.h": "c",
+        "ina226_we.h": "c",
+        "ui.h": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "functional": "c"
+    },
+    "cmake.sourceDirectory": "D:/浏览器下载/ESP32S3-1.69LCD_TEST/ESP32S3-1.69LCD_TEST/lib/Arduino-CST816T-Library",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ]
+}
